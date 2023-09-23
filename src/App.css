@@ -1,0 +1,21 @@
+.square-box{
+  display: flex;
+  justify-content:space-evenly;
+  align-items: center;
+}
+.border{
+  margin: 20px;
+}
+.Reset{
+  position: relative;
+  margin-left: 50%;
+  margin-top: 2%;
+  width: 48vh;
+  border: 1px solid blue;
+  background-color: #96C291;
+  font-size: 5vh;
+}
+.Reset:hover{
+  background-color:#C70039;
+  color: #ffffff;
+}
